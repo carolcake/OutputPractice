@@ -1,0 +1,14 @@
+public class Output2
+{ 
+	public static void main(String[] args)
+	{
+		System.out.println("       /\\   /\\         ⏜");
+		System.out.println("      (*  ▽  *)      /  /");
+		System.out.println("      /   ‿   \\     /  /");
+		System.out.println("     /         \\   /  /");
+		System.out.println("    |           | /  /");
+		System.out.println("    |  ω     ω  |/  /");
+		System.out.println("    –––––––––––––  /");
+		System.out.println("I decided to draw a cat! I hope you like it!");
+	}
+}
